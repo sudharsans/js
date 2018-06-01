@@ -316,17 +316,17 @@
 		
 		<nav class="collapse navbar-collapse text-center">
 			<ul id="menu-standard-navigation" class="nav navbar-nav"><li id="menu-item-173" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-173"><a href="http://jasanpictures.com">Home</a></li>
-<li id="menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168"><a href="meet-the-photographers/">Meet the Team</a></li>
+<li id="menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168"><a href="/meet-the-photographers/">Meet the Team</a></li>
 <li id="menu-item-495" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-495 dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle js-activated">Portfolio</a>
 <ul role="menu" class=" dropdown-menu">
-	<li id="menu-item-913" class="menu-item menu-item-type-taxonomy menu-item-object-portfolio_category menu-item-913"><a href="portfolio_category/candid-wedding/">Wedding</a></li>
-	<li id="menu-item-914" class="menu-item menu-item-type-taxonomy menu-item-object-portfolio_category menu-item-914"><a href="portfolio_category/new-born-kids-photography-in-chennai/">New born/kids</a></li>
-	<li id="menu-item-915" class="menu-item menu-item-type-taxonomy menu-item-object-portfolio_category current-portfolio-ancestor current-menu-parent current-portfolio-parent menu-item-915"><a href="portfolio_category/candid-cinematic-wedding-videos-chennai/">Candeos</a></li>
-	<li id="menu-item-916" class="menu-item menu-item-type-taxonomy menu-item-object-portfolio_category menu-item-916"><a href="portfolio_category/stage-performance-photography/">Stage/Performance</a></li>
+	<li id="menu-item-913" class="menu-item menu-item-type-taxonomy menu-item-object-portfolio_category menu-item-913"><a href="/portfolio_category/candid-wedding/">Wedding</a></li>
+	<li id="menu-item-914" class="menu-item menu-item-type-taxonomy menu-item-object-portfolio_category menu-item-914"><a href=/portfolio_categorynew-born-kids-photography-in-chennai/">New born/kids</a></li>
+	<li id="menu-item-915" class="menu-item menu-item-type-taxonomy menu-item-object-portfolio_category current-portfolio-ancestor current-menu-parent current-portfolio-parent menu-item-915"><a href=/portfolio_categorycandid-cinematic-wedding-videos-chennai/">Candeos</a></li>
+	<li id="menu-item-916" class="menu-item menu-item-type-taxonomy menu-item-object-portfolio_category menu-item-916"><a href=/portfolio_categorystage-performance-photography/">Stage/Performance</a></li>
 </ul>
 </li>
-<li id="menu-item-487" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-487"><a href="blog/">Blog</a></li>
-<li id="menu-item-917" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-917"><a href="contact/">Contact</a></li>
+<li id="menu-item-487" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-487"><a href="/blog">Blog</a></li>
+<li id="menu-item-917" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-917"><a href="/contact/">Contact</a></li>
 </ul>		</nav>
 	
 	</div><!--/.navbar-header --> 

@@ -91,7 +91,7 @@ var e=this.getItems(t);e=e.length?e:this.items,this._updateItemsSortData(e)},d.p
 /*
  * DC Flickr - jQuery Flickr
  * Copyright (c) 2011 Design Chemical
- * http://www.designchemical.com/blog/
+ * http://www.designchemical.com//blog
  *
  * Dual licensed under the MIT and GPL licenses:
  * 	http://www.opensource.org/licenses/mit-license.php
